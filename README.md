@@ -6,7 +6,7 @@
 
 ## 📌 About Me
 
-- 🎯 **9+ years of experience** in Test Automation and QA.
+- 🎯 **10+ years of experience** in Test Automation and QA.
 - 🏗️ Expert in **Playwright, Cypress, and Selenium** framework development.
 - 🤖 Passionate about **CI/CD automation, API testing, and shift-left testing strategies**.
 - 🌱 Currently exploring **Generative AI** and its applications in Test Automation.
