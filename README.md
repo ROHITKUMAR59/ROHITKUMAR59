@@ -7,7 +7,6 @@
 <a href="https://www.linkedin.com/in/rohit-kumar-engineer/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:rohitkumar5586@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -17,9 +16,6 @@
 <a href="tel:+919798666688">
   <img src="https://img.shields.io/badge/Call-%2B91%209798666688-34A853?style=for-the-badge&logo=phone&logoColor=white" alt="Call"/>
 </a>
-
-
-
 
 ---
 
