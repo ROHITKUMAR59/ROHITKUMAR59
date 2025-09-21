@@ -1,12 +1,12 @@
 # 👋 Hello! I'm Rohit Kumar
 
-🚀 Senior Test Automation Engineer | Automating Everything | Quality Engineering Enthusiast
-
+🚀 Senior QA Automation Engineer @ Wipro | Expert in Playwright & Cypress Framework Scaling | AI-Driven & API Test Automation | CI/CD & DevOps Integration | Passionate About GenAI & Quality Excellence
 ### 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-engineer/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitkumar5586@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919798666688)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-engineer/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitkumar5586@gmail.com) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919798666688) 
 [![Call](https://img.shields.io/badge/📞%20Call-%2B91%209798666688-34A853?style=for-the-badge&logo=phone&logoColor=white)](tel:+919798666688)
+
 ---
 
 ## 💼 About Me
