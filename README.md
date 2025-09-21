@@ -3,17 +3,16 @@
 🚀 Senior Test Automation Engineer | Automating Everything | Quality Engineering Enthusiast
 
 <!-- LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rohit-kumar-engineer/)
 
 <!-- Email -->
-[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?style=flat-square&logo=gmail)](mailto:yourname@email.com)
+[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?style=flat-square&logo=gmail)](mailto:rohitkumar5586@gmail.com)
 
 <!-- Call -->
 [![Call](https://img.shields.io/badge/📞%20Call-%2B91%209798666688-blue?style=flat-square)](tel:+919798666688)
 
 <!-- WhatsApp -->
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp)](https://wa.me/919798666688)
-
 
 ---
 
