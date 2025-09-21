@@ -53,19 +53,42 @@ I am a passionate Senior Test Automation Engineer with over 10 years of experien
 
 ## 💼 Work Experience
 
-#### Senior Test Automation Engineer | Wipro Technologies (2015 – Present)  
-- Led automation architecture with Playwright, Cypress, and Selenium across enterprise projects  
-- Achieved 92% test coverage and 500+ automated end-to-end tests  
-- Championed stable, efficient, and maintainable test suites  
+### Senior Test Automation Engineer | Wipro Technologies (Jun 2015 – Present)  
+- Architected and scaled Playwright, Cypress, and Selenium automation frameworks.  
+- Achieved 92% test coverage with 500+ automated end-to-end tests.  
+- Integrated automation with CI/CD pipelines using Jenkins and Azure DevOps, reducing deployment times by 70%.  
+- Mentored and trained 12+ junior engineers, improving team productivity and automation knowledge.
 
-#### Senior Test Automation Engineer | Lloyds Banking Group (2024 – 2025)  
-- Built scalable Playwright and Cypress frameworks in TypeScript  
-- Achieved 95% API test coverage for microservices  
-- Delivered AI-powered visual testing using Applitools  
+### Senior Test Automation Engineer | Suncorp Group (Apr 2025 – Sep 2025)  
+- Built Playwright test framework achieving 86% coverage for OSP Application.  
+- Automated 50+ end-to-end scenarios, reducing manual regression efforts by 40%.  
+- Refactored automation scripts using Page Object Model (POM) to cut maintenance by 39%.  
+- Integrated with Jenkins pipelines for continuous testing.
 
-#### Senior Test Automation Engineer | FedEx Corporate Services (2021 – 2024)  
-- Developed Cypress automation framework from scratch  
-- Maintained 90% test coverage for freight management applications  
+### Senior Test Automation Engineer | Lloyds Banking Group (Feb 2024 – Mar 2025)  
+- Developed Playwright and Cypress frameworks with TypeScript achieving 85% test coverage.  
+- Implemented AI-powered visual regression testing, reducing UI bugs by 40%.  
+- Applied POM design pattern to increase framework maintainability.
+
+### Senior Test Automation Engineer | FedEx Corporate Services (May 2021 – Jan 2024)  
+- Created Cypress automation framework from scratch, achieving 90% test coverage.  
+- Reduced regression testing cycles by 75%, accelerating delivery timelines.  
+- Improved test stability using retry logic and network interception.
+
+### Test Engineer | Micron Technology Hitachi (Jul 2020 – Apr 2021)  
+- Conducted SAP test validations with 95% accuracy across multiple T-codes.  
+- Identified and documented critical defects, enhancing system reliability.  
+- Reviewed and optimized 50+ test cases.
+
+### Senior Test Automation Engineer | Lloyds Banking Group LBG (Jul 2019 – Jun 2020)  
+- Led manual and automated SAP testing, improving workflow coverage by 45%.  
+- Delivered functional testing in SAP FI, MM, and SD modules.  
+- Facilitated UAT sessions with key stakeholders.
+
+### Test Engineer | IBM TRIRIGA GBOS - Walmart (Sep 2015 – Jun 2019)  
+- Refactored 150+ Selenium WebDriver scripts, improving efficiency by 70%.  
+- Implemented UI automation using Certify tool with increased test reliability.  
+- Managed defect tracking and execution using ALM and JIRA.
 
 ---
 
