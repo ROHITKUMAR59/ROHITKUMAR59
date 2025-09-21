@@ -4,7 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-engineer/)  
 [![Email](https://img.shields.io/badge/Email-rohitkumar5586@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:rohitkumar5586@gmail.com)  
-📱 [Call me: +91 9798666688](tel:+919798666688)
+[![Call me](https://img.shields.io/badge/Call-+91%209798666688-blue?style=flat-square&logo=phone)](tel:+919798666688)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919798666688)
 
 ---
 
@@ -60,25 +61,25 @@ I am a passionate Senior Test Automation Engineer with over 10 years of experien
 - Mentored and trained 12+ junior engineers, improving team productivity and automation knowledge.
 
 ### Senior Test Automation Engineer | Suncorp Group (Apr 2025 – Sep 2025)  
-- Built Playwright test framework achieving 86% coverage for OSP Application.  
+- Built Playwright test framework, achieving 86% coverage for OSP Application.  
 - Automated 50+ end-to-end scenarios, reducing manual regression efforts by 40%.  
 - Refactored automation scripts using Page Object Model (POM) to cut maintenance by 39%.  
 - Integrated with Jenkins pipelines for continuous testing.
 
 ### Senior Test Automation Engineer | Lloyds Banking Group (Feb 2024 – Mar 2025)  
-- Developed Playwright and Cypress frameworks with TypeScript achieving 85% test coverage.  
+- Developed Playwright and Cypress frameworks with TypeScript, achieving 85% test coverage.  
 - Implemented AI-powered visual regression testing, reducing UI bugs by 40%.  
 - Applied POM design pattern to increase framework maintainability.
 
 ### Senior Test Automation Engineer | FedEx Corporate Services (May 2021 – Jan 2024)  
-- Created Cypress automation framework from scratch, achieving 90% test coverage.  
+- Created a Cypress automation framework from scratch, achieving 90% test coverage.  
 - Reduced regression testing cycles by 75%, accelerating delivery timelines.  
 - Improved test stability using retry logic and network interception.
 
 ### Test Engineer | Micron Technology Hitachi (Jul 2020 – Apr 2021)  
 - Conducted SAP test validations with 95% accuracy across multiple T-codes.  
 - Identified and documented critical defects, enhancing system reliability.  
-- Reviewed and optimized 50+ test cases.
+- Reviewed and optimised 50+ test cases.
 
 ### Senior Test Automation Engineer | Lloyds Banking Group LBG (Jul 2019 – Jun 2020)  
 - Led manual and automated SAP testing, improving workflow coverage by 45%.  
@@ -87,29 +88,9 @@ I am a passionate Senior Test Automation Engineer with over 10 years of experien
 
 ### Test Engineer | IBM TRIRIGA GBOS - Walmart (Sep 2015 – Jun 2019)  
 - Refactored 150+ Selenium WebDriver scripts, improving efficiency by 70%.  
-- Implemented UI automation using Certify tool with increased test reliability.  
+- Implemented UI automation using the Certify tool with increased test reliability.  
 - Managed defect tracking and execution using ALM and JIRA.
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ROHITKUMAR59">
-    <img src="https://github-readme-stats.vercel.app/api?username=ROHITKUMAR59&show_icons=true&count_private=true&theme=radical" alt="Rohit Kumar's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITKUMAR59&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHITKUMAR59&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ROHITKUMAR59" alt="Profile Visitors" />
-</p>
-
----
-
-⭐ Let’s build high-quality, automated software that delights users! 🚀
+🌟 **Let’s build high-quality, automated software that delights users!** 🚀
