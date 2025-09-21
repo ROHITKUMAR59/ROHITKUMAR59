@@ -59,7 +59,7 @@ _(More details in my LinkedIn profile below)_
 
 ## 🔗 Connect With Me
 
-- 💼 **LinkedIn:** https://linkedin.com/in/rohitkumar-engineer
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rohit-kumar-engineer/
 - 📧 **Email:** rohitkumar5586@gmail.com
 
 ---
