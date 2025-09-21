@@ -3,7 +3,8 @@
 🚀 Senior Test Automation Engineer | Automating Everything | Quality Engineering Enthusiast  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-engineer/)  
-[![Email](https://img.shields.io/badge/Email-rohitkumar5586@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:rohitkumar5586@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rohitkumar5586@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:rohitkumar5586@gmail.com)  
+📱 +91 9798666688
 
 ---
 
