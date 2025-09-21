@@ -7,27 +7,6 @@
 
 ---
 
-<!-- GitHub stats -->
-<p align="center">
-  <a href="https://github.com/ROHITKUMAR59">
-    <img src="https://github-readme-stats.vercel.app/api?username=ROHITKUMAR59&show_icons=true&count_private=true&theme=radical" alt="Rohit Kumar's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITKUMAR59&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHITKUMAR59&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ROHITKUMAR59" alt="Profile Visitors" />
-</p>
-
----
-
 ## 💼 About Me
 
 I am a passionate Senior Test Automation Engineer with over 10 years of experience, enabling teams to build faster, scalable, and highest-quality software through automation.
@@ -48,9 +27,7 @@ I am a passionate Senior Test Automation Engineer with over 10 years of experien
   <a href="https://maven.apache.org/" target="_blank" rel="noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="75" height="40" alt="Maven" /></a>
   <a href="https://cucumber.io/" target="_blank" rel="noopener"><img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" width="50" height="50" alt="Cucumber" /></a>
   <a href="https://playwright.dev/" target="_blank" rel="noopener"><img src="https://playwright.dev/img/playwright-logo.svg" width="50" height="50" alt="Playwright" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" /></a>
   <a href="https://docs.pytest.org/" target="_blank" rel="noopener"><img src="https://docs.pytest.org/en/7.1.x/_static/pytest_logo_curves.svg" width="50" height="50" alt="Pytest" /></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener"><img src="https://cdn.worldvectorlogo.com/logos/pycharm-1.svg" width="80" height="40" alt="PyCharm" /></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="50" height="50" alt="IntelliJ IDEA" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50" alt="VS Code" /></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener"><img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" width="50" height="50" alt="Jira" /></a>
@@ -65,7 +42,7 @@ I am a passionate Senior Test Automation Engineer with over 10 years of experien
 
 ## 🏆 Key Achievements
 
-- 🔥 Reduced manual testing efforts by **65%** through modular reusable automation frameworks  
+- 🚀 Reduced manual testing efforts by **65%** through modular reusable automation frameworks  
 - 🤖 Boosted UI defect detection by **50%** with AI-powered Applitools visual regression  
 - ⚡ Accelerated CI/CD validation cycles by **70%** with Jenkins and GitHub Actions  
 - 🎯 Reduced flaky tests by **65%** via retry logic and network interception in Playwright  
@@ -91,11 +68,24 @@ I am a passionate Senior Test Automation Engineer with over 10 years of experien
 
 ---
 
-## 📫 Let's Connect
+<p align="center">
+  <a href="https://github.com/ROHITKUMAR59">
+    <img src="https://github-readme-stats.vercel.app/api?username=ROHITKUMAR59&show_icons=true&count_private=true&theme=radical" alt="Rohit Kumar's GitHub Stats" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-engineer/)  
-✉️ [rohitkumar5586@gmail.com](mailto:rohitkumar5586@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITKUMAR59&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHITKUMAR59&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ROHITKUMAR59" alt="Profile Visitors" />
+</p>
 
 ---
 
-⭐ Let’s build quality automated software that delights users! 🚀
+⭐ Let’s build high-quality, automated software that delights users! 🚀
