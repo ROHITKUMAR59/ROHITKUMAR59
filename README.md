@@ -1,6 +1,11 @@
 # 👋 Hello! I'm Rohit Kumar
 
 🚀 Senior QA Automation Engineer @ Wipro | Expert in Playwright & Cypress Framework Scaling | AI-Driven & API Test Automation | CI/CD & DevOps Integration | Passionate About GenAI & Quality Excellence
+
+### 🧾 Resume / CV  
+[![CV](https://img.shields.io/badge/📄%20View%20My%20CV-0077B5?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/ROHITKUMAR59/ROHITKUMAR59/blob/main/Rohit_Kumar_CV.pdf)
+
+---
 ### 📬 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-engineer/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitkumar5586@gmail.com) 
