@@ -72,7 +72,7 @@ I am a passionate Senior Test Automation Engineer with over 10 years of experien
 - Integrated automation with CI/CD pipelines using Jenkins and Azure DevOps, reducing deployment times by 70%.  
 - Mentored and trained 12+ junior engineers, improving team productivity and automation knowledge.
 
-### Senior Test Automation Engineer | Suncorp Group (Apr 2025 – Sep 2025)  
+### Senior Test Automation Engineer | Suncorp Group (Apr 2025 – Oct 2025)  
 - Built Playwright test framework, achieving 86% coverage for OSP Application.  
 - Automated 50+ end-to-end scenarios, reducing manual regression efforts by 40%.  
 - Refactored automation scripts using Page Object Model (POM) to cut maintenance by 39%.  
