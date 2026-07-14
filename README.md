@@ -1,15 +1,16 @@
 ![GitHub Banner](assets/github-banner.png)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ROHITKUMAR59&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/ROHITKUMAR59?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/ROHITKUMAR59?affiliations=OWNER&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=ROHITKUMAR59&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ROHITKUMAR59?style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ROHITKUMAR59?affiliations=OWNER&style=for-the-badge" alt="Stars" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Rohit Kumar</h1>
+<h4 align="center">📍 Bengaluru, India</h4>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Senior+QA+Automation+Engineer;Playwright+%7C+Cypress+%7C+Selenium;API+Automation+%7C+CI%2FCD+%7C+AWS;AI-assisted+Testing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Senior+QA+Automation+Engineer;Playwright+%7C+Cypress+%7C+Selenium;API+Automation+%7C+CI%2FCD+%7C+AWS;AI-assisted+Testing" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,16 +19,16 @@ Helping engineering teams deliver reliable, scalable, and high-quality software 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-kumar-engineer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rohitkumar5586@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ROHITKUMAR59">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="Rohit_Kumar_CV.pdf">
-    <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge" alt="Resume" />
   </a>
 </p>
 
@@ -35,9 +36,9 @@ Helping engineering teams deliver reliable, scalable, and high-quality software 
 
 ## 💼 About Me
 
-I'm a **Senior QA Automation Engineer** with **11+ years of experience** designing scalable automation frameworks that improve software quality and accelerate software delivery. 
+I'm a **Senior QA Automation Engineer** with **11+ years of experience** designing scalable automation frameworks that improve software quality and accelerate delivery. 
 
-I enjoy building scalable automation frameworks that improve software quality, reduce feedback cycles, and help engineering teams deliver reliable software faster. My experience spans UI automation, API testing, cloud-native quality engineering, and AI-assisted testing using modern tools such as Playwright, Cypress, Selenium, GitHub Copilot, and AWS.
+My expertise spans UI automation, API testing, cloud-native quality engineering, and AI-assisted testing using modern tools such as Playwright, Cypress, Selenium, GitHub Copilot, and AWS. I focus on reducing feedback cycles and helping engineering teams ship reliable software faster.
 
 ## ⚡ Quick Highlights
 
@@ -78,10 +79,10 @@ I enjoy building scalable automation frameworks that improve software quality, r
 ## 🎓 Education
 
 **Master of Technology (M.Tech.) – Software Engineering**  
-BITS Pilani, Bangalore
+BITS Pilani
 
 **Bachelor of Computer Applications (B.C.A.)**  
-Magadh University, Bodh Gaya
+Magadh University
 
 ---
 
@@ -158,12 +159,12 @@ Magadh University, Bodh Gaya
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ROHITKUMAR59&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ROHITKUMAR59&theme=github-dark&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ROHITKUMAR59&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ROHITKUMAR59&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITKUMAR59&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITKUMAR59&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -176,8 +177,7 @@ Magadh University, Bodh Gaya
 
 ## 🐍 Contribution Snake
 
-<!-- Ensure you have a GitHub Action set up in your repository to generate this animation to this path -->
-![snake gif](assets/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/ROHITKUMAR59/ROHITKUMAR59/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
