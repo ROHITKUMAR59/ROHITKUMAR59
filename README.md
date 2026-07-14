@@ -1,102 +1,126 @@
-# 👋 Hello! I'm Rohit Kumar
+# 👋 Hello, I'm Rohit Kumar
 
-## 🚀 Senior QA Automation Engineer | Playwright • Cypress • Selenium | Test Automation Architect | API Testing | AI-Powered QA | GitHub Copilot Certified | AWS Certified Developer Associate | CI/CD | DevOps
+<p align="center">
+  <img src="assets/github-banner.png" alt="Rohit Kumar | Senior QA Automation Engineer" width="100%" />
+</p>
 
-Helping engineering teams deliver reliable, scalable, and high-quality software through modern test automation, AI-driven testing, and cloud-native DevOps practices.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ROHITKUMAR59&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<h2 align="center">
+🚀 Senior QA Automation Engineer | Playwright • Cypress • Selenium | API & AI Test Automation | AWS Certified Developer – Associate | GitHub Copilot Certified
+</h2>
+
+<p align="center">
+Helping engineering teams deliver reliable, scalable, and high-quality software through modern test automation, AI-assisted testing, cloud technologies, and DevOps best practices.
+</p>
 
 ---
 
-## 📬 Connect with Me
+# 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-engineer/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitkumar5586@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919798666688)
-[![Resume](https://img.shields.io/badge/📄%20Resume-0077B5?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/ROHITKUMAR59/ROHITKUMAR59/blob/main/Rohit_Kumar_CV.pdf)
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rohit-kumar-engineer/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ROHITKUMAR59">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:rohitkumar5586@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/919798666688">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ROHITKUMAR59/ROHITKUMAR59/blob/main/Rohit_Kumar_CV.pdf">
+<img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=readme&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 # 💼 About Me
 
-I am a passionate **Senior Test Automation Engineer** with **11+ years of experience** designing scalable automation frameworks and enabling engineering teams to deliver faster, higher-quality software.
+I'm a **Senior QA Automation Engineer** with **11+ years of experience** designing and implementing scalable automation frameworks that improve software quality, accelerate release cycles, and enable engineering teams to deliver with confidence.
 
-- 🎯 Expert in **Playwright**, **Cypress**, **Selenium WebDriver**, and **API Automation**
-- 🤖 Leveraging **GitHub Copilot**, **Generative AI**, and **AI-powered Visual Testing**
-- ☁️ Experience with **AWS**, **Docker**, **Kubernetes (EKS)**, and Cloud-native Testing
-- ⚙️ Strong background in **CI/CD** using Jenkins, GitHub Actions, and Azure DevOps
-- 🏗️ Passionate about Automation Framework Architecture and Test Strategy
-- 🧑‍🏫 Mentor who enjoys coaching automation engineers
-- 💬 Love simplifying complex technical concepts
-- 📈 Focused on improving software quality, engineering productivity, and release confidence
+My expertise spans **UI Automation**, **API Testing**, **Cloud**, **CI/CD**, and **AI-assisted testing**, helping organizations build reliable and maintainable quality engineering practices.
+
+I enjoy solving complex engineering challenges through modern automation frameworks, cloud-native technologies, DevOps, and AI-powered testing solutions.
+
+---
+
+# 🎯 I Specialize In
+
+- 🎭 Playwright Automation
+- 🌲 Cypress Automation
+- 🧪 Selenium WebDriver
+- 🔗 REST API Automation
+- 🤖 AI-assisted Test Automation
+- ☁️ AWS Cloud Testing
+- ⚙️ CI/CD Automation
+- 🐳 Docker & Kubernetes
+- 📈 Automation Framework Architecture
+- 👨‍🏫 Technical Mentoring & Coaching
 
 ---
 
 # 🏆 Certifications
 
-- 🏅 AWS Certified Developer Associate
-- 🏅 GitHub Foundations Certified
+- 🏅 AWS Certified Developer – Associate
 - 🏅 GitHub Copilot Certified
+- 🏅 GitHub Foundations
 - 🏅 Worksoft Certify Certified Tester
 
 ---
 
 # 🎓 Education
 
-### Master of Technology (M.Tech) Software Engineering
-**BITS Pilani, Bangalore**
-
-### Bachelor of Computer Application (B.C.A.)
-**Magadh University, Bodh Gaya**
+### 🎓 M.Tech – Software Engineering BITS Pilani
 
 ---
 
-# 🚀 Core Expertise
+# 🚀 Core Skills
 
-- Playwright Automation
-- Cypress Automation
-- Selenium WebDriver
-- API Testing
-- REST Assured
-- Postman
-- Java
-- TypeScript
-- JavaScript
-- Test Automation Framework Design
-- Page Object Model (POM)
-- Cucumber BDD
-- Jenkins
-- GitHub Actions
-- Azure DevOps
-- Docker
-- Kubernetes
-- AWS
-- GitHub Copilot
-- Applitools
-- CI/CD
-- Agile Scrum
-
----
+| Category | Technologies |
+|-----------|--------------|
+| 🎭 Test Automation | Playwright, Cypress, Selenium WebDriver |
+| 💻 Programming | Java, JavaScript, TypeScript |
+| 🔗 API Testing | REST Assured, Postman |
+| ⚙️ CI/CD | GitHub Actions, Azure DevOps, Jenkins |
+| ☁️ Cloud | AWS |
+| 🐳 Containers | Docker, Kubernetes |
+| 🗄️ Version Control | Git, GitHub |
+| 🤖 AI | GitHub Copilot, AI-assisted Test Automation |
+| 🏗️ Framework Design | Scalable Automation Frameworks, Hybrid Frameworks, POM, Data-Driven Testing |
+| 📈 Quality Engineering | Test Strategy, Regression Automation, Cross-browser Testing, Test Reporting |
 
 # 🔧 Tech Stack
 
 <p align="center">
 
-<img src="https://playwright.dev/img/playwright-logo.svg" width="48"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="48"/>
-<img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" width="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/>
-<img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" width="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48"/>
+<img src="https://playwright.dev/img/playwright-logo.svg" width="48" title="Playwright"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="48" title="Cypress"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="48" title="Selenium"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" title="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" title="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" title="TypeScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" title="Node.js"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" title="Postman"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" title="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" title="GitHub"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48" title="Jenkins"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="48" title="Azure DevOps"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" title="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" title="Kubernetes"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" title="AWS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" title="VS Code"/>
 
 </p>
 
@@ -104,82 +128,150 @@ I am a passionate **Senior Test Automation Engineer** with **11+ years of experi
 
 # 🏆 Key Achievements
 
-- 🚀 Reduced manual testing effort by **65%**
-- ⚡ Reduced regression execution time by **75%**
-- 📈 Delivered automation coverage up to **92%**
-- 🤖 Improved UI defect detection by **50%** using AI-powered visual testing
-- 🔄 Accelerated CI/CD validation cycles by **70%**
-- 🎯 Reduced flaky tests by **65%**
-- 👨‍🏫 Mentored **12+** automation engineers
+- 🏗️ Designed and built enterprise-grade automation frameworks from scratch for multiple enterprise applications.
+- 🚀 Reduced **manual testing effort by 65%** through scalable UI and API automation.
+- ⚡ Reduced **regression execution time by 75%**, enabling faster release cycles.
+- 📈 Increased **automation coverage to 92%** across multiple enterprise applications.
+- 🤖 Improved **UI defect detection by 50%** through robust automation strategies.
+- 🔄 Accelerated **CI/CD validation cycles by 70%** with automated quality gates.
+- 🎯 Reduced **flaky test failures by 65%** using framework improvements and stability enhancements.
+- 👨‍🏫 Mentored **12+ automation engineers**, promoting best practices in automation and quality engineering.
+
+---
+## 🚀 Featured Projects
+
+🚧 Currently under development.
+
+| Repository | Status |
+|------------|--------|
+| Enterprise Playwright Framework | Coming Soon |
+| Cypress Automation Framework | Coming Soon |
+| REST API Framework | Coming Soon |
+| AI Testing Utilities | Coming Soon |
+| GitHub Actions Templates | Coming Soon |
+| QA Learning Repository | Coming Soon |
+---
+
+### 📚 QA Automation Learning Repository
+
+Topics planned:
+
+- Playwright
+- Cypress
+- Selenium
+- API Testing
+- Java
+- TypeScript
+- CI/CD
+- Docker
+- Kubernetes
+- Interview Preparation
+- Best Practices
 
 ---
 
-# 💼 Professional Experience
+# 🔥 Currently Exploring
 
-## Senior Test Automation Engineer
-**Wipro Technologies** | Jun 2015 – Present
-
-### Client Engagements
-
-### 🏦 Suncorp Group
-
-- Built enterprise Playwright framework
-- Achieved 86% automation coverage
-- Automated 50+ end-to-end scenarios
-
-### 🏦 Lloyds Banking Group
-
-- Developed Playwright & Cypress frameworks
-- Implemented AI-powered visual testing
-- Improved framework maintainability using POM
-
-### ✈️ FedEx Corporate Services
-
-- Built Cypress framework from scratch
-- Achieved 90% automation coverage
-- Reduced regression execution by 75%
-
-### 💾 Micron Technology
-
-- SAP Functional Testing
-- Test Case Optimization
-- Defect Management
-
-### 🛒 IBM TRIRIGA (Walmart)
-
-- Selenium Automation
-- Worksoft Certify Automation
-- ALM & JIRA
-
----
-
-# 📚 Currently Exploring
-
-- 🤖 AI Agents for Software Testing
-- 🧠 LLM Testing
-- 🚀 MCP Servers
-- ⚡ GitHub Copilot Agent Mode
+- 🎭 Advanced Playwright
+- 🌲 Modern Cypress Frameworks
+- ⚙️ GitHub Copilot Agent Mode
+- 🧩 Model Context Protocol (MCP)
 - ☁️ Advanced AWS Services
 - 🐳 Kubernetes Test Automation
-- 🔄 Platform Engineering
-- 🧪 AI-powered Test Generation
+- 🔄 Platform Engineering for QA
+- 📡 Test Observability
+- 📊 AI-powered Test Reporting
 
 ---
 
-# 📊 GitHub Stats
+## 🌱 Open Source Roadmap (2026)
 
-![](https://github-readme-stats.vercel.app/api?username=ROHITKUMAR59&show_icons=true&theme=github_dark)
+- Publish Enterprise Playwright Framework
+- Publish Cypress Framework
+- Publish REST API Framework
+- Release GitHub Actions Templates
+- Share Automation Best Practices
+- Publish Technical Blogs
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ROHITKUMAR59&theme=github-dark)
+# 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITKUMAR59&layout=compact&theme=github_dark)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ROHITKUMAR59&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ROHITKUMAR59&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITKUMAR59&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
-## 💡 Quote
+# 🏆 GitHub Trophies
 
-> *"Quality is never an accident; it is always the result of intelligent effort."*
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ROHITKUMAR59&theme=onedark&no-frame=true&row=1&column=6"/>
+
+</p>
 
 ---
 
-⭐ **If you find my repositories helpful, feel free to star them and connect with me on LinkedIn. Let's build reliable, scalable, and AI-powered software together!**
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHITKUMAR59&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on:
+
+- 🎭 Playwright Automation
+- 🌲 Cypress Automation
+- 🧪 Selenium Automation
+- 🔗 API Testing
+- 🤖 AI-powered Testing
+- ☁️ Cloud-native Quality Engineering
+- ⚙️ CI/CD Automation
+- 📚 Open Source QA Projects
+- 👨‍🏫 Technical Mentoring
+- 🚀 Automation Framework Design
+
+Feel free to connect if you'd like to discuss automation, software quality, cloud technologies, AI-assisted testing, or open-source collaboration.
+
+---
+
+# 💬 Professional Philosophy
+
+> **"Quality is engineered not inspected. Automation enables teams to deliver reliable software with confidence."**
+
+---
+
+# ⭐ Thank You for Visiting!
+
+If you find my work helpful or share an interest in **Quality Engineering**, **Test Automation**, **Cloud**, **DevOps**, or **AI-powered Testing**, I'd be delighted to connect and collaborate.
+
+### 💙 If you enjoy my work:
+
+🤝 Connect
+
+💬 Feedback
+
+🚀 Collaborate
+
+---
+
+<p align="center">
+
+### 🚀 Building Reliable Software Through Modern Quality Engineering 🚀
+
+</p>
