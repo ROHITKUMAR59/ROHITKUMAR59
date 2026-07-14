@@ -1,108 +1,185 @@
 # 👋 Hello! I'm Rohit Kumar
 
-🚀 Senior QA Automation Engineer @ Wipro | Expert in Playwright & Cypress Framework Scaling | AI-Driven & API Test Automation | CI/CD & DevOps Integration | Passionate About GenAI & Quality Excellence
+## 🚀 Senior QA Automation Engineer | Playwright • Cypress • Selenium | Test Automation Architect | API Testing | AI-Powered QA | GitHub Copilot Certified | AWS Certified Developer Associate | CI/CD | DevOps
 
-### 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-engineer/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitkumar5586@gmail.com) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919798666688) 
-[![Call](https://img.shields.io/badge/📞%20Call-%2B91%209798666688-34A853?style=for-the-badge&logo=phone&logoColor=white)](tel:+919798666688)
-[![CV](https://img.shields.io/badge/📄%20View%20My%20CV-0077B5?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/ROHITKUMAR59/ROHITKUMAR59/blob/main/Rohit_Kumar_CV.pdf)
+Helping engineering teams deliver reliable, scalable, and high-quality software through modern test automation, AI-driven testing, and cloud-native DevOps practices.
 
 ---
 
-## 💼 About Me
+## 📬 Connect with Me
 
-I am a passionate Senior Test Automation Engineer with over 10 years of experience, enabling teams to build faster, scalable, and highest-quality software through automation.
-
-- 🎯 Expert in **Playwright**, **Cypress**, and **Selenium WebDriver**  
-- 🤖 Driving innovation through **AI-powered visual testing** and **robust CI/CD pipelines**  
-- 🌱 Continually exploring **Generative AI applications** in software testing  
-- 🧑‍🏫 Committed mentor, cultivating new talent and best practices  
-- 💡 Advocate for **clean code, OOP principles, and testing excellence**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-engineer/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitkumar5586@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919798666688)
+[![Resume](https://img.shields.io/badge/📄%20Resume-0077B5?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/ROHITKUMAR59/ROHITKUMAR59/blob/main/Rohit_Kumar_CV.pdf)
 
 ---
 
-## 🎓 Education
+# 💼 About Me
 
-- Master of Technology (MTech) in Software Engineering  
-  BITS Pilani, Bangalore  
+I am a passionate **Senior Test Automation Engineer** with **11+ years of experience** designing scalable automation frameworks and enabling engineering teams to deliver faster, higher-quality software.
 
-- Bachelor of Computer Application (B.C.A)  
-  Magadh University, Bodh Gaya  
+- 🎯 Expert in **Playwright**, **Cypress**, **Selenium WebDriver**, and **API Automation**
+- 🤖 Leveraging **GitHub Copilot**, **Generative AI**, and **AI-powered Visual Testing**
+- ☁️ Experience with **AWS**, **Docker**, **Kubernetes (EKS)**, and Cloud-native Testing
+- ⚙️ Strong background in **CI/CD** using Jenkins, GitHub Actions, and Azure DevOps
+- 🏗️ Passionate about Automation Framework Architecture and Test Strategy
+- 🧑‍🏫 Mentor who enjoys coaching automation engineers
+- 💬 Love simplifying complex technical concepts
+- 📈 Focused on improving software quality, engineering productivity, and release confidence
 
 ---
 
-## 🔧 Tech Stack & Tools
+# 🏆 Certifications
+
+- 🏅 AWS Certified Developer Associate
+- 🏅 GitHub Foundations Certified
+- 🏅 GitHub Copilot Certified
+- 🏅 Worksoft Certify Certified Tester
+
+---
+
+# 🎓 Education
+
+### Master of Technology (M.Tech) Software Engineering
+**BITS Pilani, Bangalore**
+
+### Bachelor of Computer Application (B.C.A.)
+**Magadh University, Bodh Gaya**
+
+---
+
+# 🚀 Core Expertise
+
+- Playwright Automation
+- Cypress Automation
+- Selenium WebDriver
+- API Testing
+- REST Assured
+- Postman
+- Java
+- TypeScript
+- JavaScript
+- Test Automation Framework Design
+- Page Object Model (POM)
+- Cucumber BDD
+- Jenkins
+- GitHub Actions
+- Azure DevOps
+- Docker
+- Kubernetes
+- AWS
+- GitHub Copilot
+- Applitools
+- CI/CD
+- Agile Scrum
+
+---
+
+# 🔧 Tech Stack
 
 <p align="center">
-  <a href="https://www.selenium.dev" target="_blank" rel="noopener"><img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" width="50" height="50" alt="Selenium" /></a>
-  <a href="https://www.java.com" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" /></a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="75" height="40" alt="Maven" /></a>
-  <a href="https://cucumber.io/" target="_blank" rel="noopener"><img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" width="50" height="50" alt="Cucumber" /></a>
-  <a href="https://playwright.dev/" target="_blank" rel="noopener"><img src="https://playwright.dev/img/playwright-logo.svg" width="50" height="50" alt="Playwright" /></a>
-  <a href="https://docs.pytest.org/" target="_blank" rel="noopener"><img src="https://docs.pytest.org/en/7.1.x/_static/pytest_logo_curves.svg" width="50" height="50" alt="Pytest" /></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="50" height="50" alt="IntelliJ IDEA" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50" alt="VS Code" /></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener"><img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" width="50" height="50" alt="Jira" /></a>
-  <a href="https://postman.com" target="_blank" rel="noopener"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" /></a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noopener"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" alt="Jenkins" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" /></a>
+
+<img src="https://playwright.dev/img/playwright-logo.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="48"/>
+<img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/>
+<img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48"/>
+
 </p>
 
 ---
 
-## 🏆 Key Achievements
+# 🏆 Key Achievements
 
-- 🚀 Reduced manual testing efforts by **65%** through modular reusable automation frameworks  
-- 🤖 Boosted UI defect detection by **50%** with AI-powered Applitools visual regression  
-- ⚡ Accelerated CI/CD validation cycles by **70%** with Jenkins and GitHub Actions  
-- 🎯 Reduced flaky tests by **65%** via retry logic and network interception in Playwright  
-- 👩‍🏫 Mentored 12+ junior engineers, increasing team automation expertise by **30%**
-
----
-
-## 💼 Work Experience
-
-### Senior Test Automation Engineer | Wipro Technologies (Jun 2015 – Present)  
-- Architected and scaled Playwright, Cypress, and Selenium automation frameworks.  
-- Achieved 92% test coverage with 500+ automated end-to-end tests.  
-- Integrated automation with CI/CD pipelines using Jenkins and Azure DevOps, reducing deployment times by 70%.  
-- Mentored and trained 12+ junior engineers, improving team productivity and automation knowledge.
-
-### Senior Test Automation Engineer | Suncorp Group (Apr 2025 – Oct 2025)  
-- Built Playwright test framework, achieving 86% coverage for OSP Application.  
-- Automated 50+ end-to-end scenarios, reducing manual regression efforts by 40%.  
-- Refactored automation scripts using Page Object Model (POM) to cut maintenance by 39%.  
-- Integrated with Jenkins pipelines for continuous testing.
-
-### Senior Test Automation Engineer | Lloyds Banking Group (Feb 2024 – Mar 2025)  
-- Developed Playwright and Cypress frameworks with TypeScript, achieving 85% test coverage.  
-- Implemented AI-powered visual regression testing, reducing UI bugs by 40%.  
-- Applied POM design pattern to increase framework maintainability.
-
-### Senior Test Automation Engineer | FedEx Corporate Services (May 2021 – Jan 2024)  
-- Created a Cypress automation framework from scratch, achieving 90% test coverage.  
-- Reduced regression testing cycles by 75%, accelerating delivery timelines.  
-- Improved test stability using retry logic and network interception.
-
-### Test Engineer | Micron Technology Hitachi (Jul 2020 – Apr 2021)  
-- Conducted SAP test validations with 95% accuracy across multiple T-codes.  
-- Identified and documented critical defects, enhancing system reliability.  
-- Reviewed and optimised 50+ test cases.
-
-### Senior Test Automation Engineer | Lloyds Banking Group LBG (Jul 2019 – Jun 2020)  
-- Led manual and automated SAP testing, improving workflow coverage by 45%.  
-- Delivered functional testing in SAP FI, MM, and SD modules.  
-- Facilitated UAT sessions with key stakeholders.
-
-### Test Engineer | IBM TRIRIGA GBOS - Walmart (Sep 2015 – Jun 2019)  
-- Refactored 150+ Selenium WebDriver scripts, improving efficiency by 70%.  
-- Implemented UI automation using the Certify tool with increased test reliability.  
-- Managed defect tracking and execution using ALM and JIRA.
+- 🚀 Reduced manual testing effort by **65%**
+- ⚡ Reduced regression execution time by **75%**
+- 📈 Delivered automation coverage up to **92%**
+- 🤖 Improved UI defect detection by **50%** using AI-powered visual testing
+- 🔄 Accelerated CI/CD validation cycles by **70%**
+- 🎯 Reduced flaky tests by **65%**
+- 👨‍🏫 Mentored **12+** automation engineers
 
 ---
 
-🌟 **Let’s build high-quality, automated software that delights users!** 🚀
+# 💼 Professional Experience
+
+## Senior Test Automation Engineer
+**Wipro Technologies** | Jun 2015 – Present
+
+### Client Engagements
+
+### 🏦 Suncorp Group
+
+- Built enterprise Playwright framework
+- Achieved 86% automation coverage
+- Automated 50+ end-to-end scenarios
+
+### 🏦 Lloyds Banking Group
+
+- Developed Playwright & Cypress frameworks
+- Implemented AI-powered visual testing
+- Improved framework maintainability using POM
+
+### ✈️ FedEx Corporate Services
+
+- Built Cypress framework from scratch
+- Achieved 90% automation coverage
+- Reduced regression execution by 75%
+
+### 💾 Micron Technology
+
+- SAP Functional Testing
+- Test Case Optimization
+- Defect Management
+
+### 🛒 IBM TRIRIGA (Walmart)
+
+- Selenium Automation
+- Worksoft Certify Automation
+- ALM & JIRA
+
+---
+
+# 📚 Currently Exploring
+
+- 🤖 AI Agents for Software Testing
+- 🧠 LLM Testing
+- 🚀 MCP Servers
+- ⚡ GitHub Copilot Agent Mode
+- ☁️ Advanced AWS Services
+- 🐳 Kubernetes Test Automation
+- 🔄 Platform Engineering
+- 🧪 AI-powered Test Generation
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ROHITKUMAR59&show_icons=true&theme=github_dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ROHITKUMAR59&theme=github-dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITKUMAR59&layout=compact&theme=github_dark)
+
+---
+
+## 💡 Quote
+
+> *"Quality is never an accident; it is always the result of intelligent effort."*
+
+---
+
+⭐ **If you find my repositories helpful, feel free to star them and connect with me on LinkedIn. Let's build reliable, scalable, and AI-powered software together!**
